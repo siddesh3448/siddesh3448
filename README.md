@@ -246,25 +246,17 @@ Goal:
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddesh3448&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=c9d1d9&icon_color=00bfff&border_color=00ff99"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh3448&layout=compact&hide_border=true&bg_color=0D1117&title_color=00ff99&text_color=c9d1d9&border_color=00ff99"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=siddesh3448&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh3448&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddesh3448&hide_border=true&background=0D1117&ring=00ff99&fire=00bfff&currStreakLabel=00ff99&sideLabels=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=00ff99" />
+  <img
+    src="https://streak-stats.demolab.com?user=siddesh3448&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddesh3448&hide_border=true&bg_color=0D1117&color=00bfff&line=00ff99&point=00ff99&area=true&area_color=00ff99&title_color=00ff99" width="100%">
-</p>
-
-<p align="center">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
-</p>
-
-<p align="center"><img src="matrix-divider.svg" width="100%" height="50"></p>
 
 <!-- ================= QUOTE + SNAKE ================= -->
 <p align="center">
