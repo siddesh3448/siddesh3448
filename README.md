@@ -245,29 +245,36 @@ Goal:
 <!-- ================= GITHUB STATS ================= -->
 # 📊 GitHub Stats
 
+<!-- Daily Streak -->
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=siddesh3448&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh3448&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=siddesh3448&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
+<!-- Profile Summary -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=siddesh3448&theme=tokyonight&hide_border=true" />
+  <img width="100%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddesh3448&theme=github_dark"/>
 </p>
 
-<!-- ================= QUOTE + SNAKE ================= -->
+<!-- Stats Cards -->
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddesh3448&theme=github_dark"/>
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddesh3448&theme=github_dark"/>
 </p>
 
+<!-- Productive Time -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddesh3448&theme=github_dark&utcOffset=5.5"/>
 </p>
 
-<p align="center"><img src="matrix-divider.svg" width="100%" height="50"></p>
+<!-- Activity Graph -->
+<p align="center">
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=siddesh3448&theme=github-dark&hide_border=true"/>
+</p>
 
 <!-- ================= CONNECT ================= -->
 # 📫 Connect With Me
