@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Siddesh Mallinath Mange.</h1>
+<h1 align="center">Hi 👋, I'm Siddesh Mallinath Mange</h1>
 
 <h3 align="center">
 🔐 Cyber Security Enthusiast &nbsp;|&nbsp; ☕ Java Developer &nbsp;|&nbsp; 🌐 Web Developer
